@@ -1,0 +1,14 @@
+package Sharonjava;
+import java.util.Scanner;
+public class odd
+{
+	public static void main(String[] args)
+	{
+		Scanner s=new Scanner(System.in);
+        int c=s.nextInt();
+        int cube;
+        System.out.println("Enter a number to find the cube");
+        cube=c*c*c;
+        System.out.println("Cube is :"+c);
+	}
+}

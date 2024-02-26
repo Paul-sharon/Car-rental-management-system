@@ -1,0 +1,9 @@
+package Sharonjava;
+
+public class odd {
+
+	public odd() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
